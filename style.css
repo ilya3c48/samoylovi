@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: #0776A0;
+}
+
+p{
+    color: yellow;
+}
+
+h2{
+    color:red;
+}
+
+ul{
+    color:red;
+}
+
+h3{
+    border-top: 5px black solid;
+    border-bottom: 5px black solid;
+    padding: 10px;
+}
+
+footer{
+    background-color: #0776A0;
+}
+
+footer p{
+    color:white;
+    padding: 5px;
+}
+
